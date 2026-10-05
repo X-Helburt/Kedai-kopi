@@ -176,7 +176,7 @@ html {
   flex: 1 1 45rem;
 }
 .abaut .row .abaut-img img {
-  width: 60%;
+  width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -187,8 +187,8 @@ html {
   padding: 0 1rem;
 }
 
-/* menu section */
-.fieldset {
+/* stok section */
+.carousel {
   padding: 10rem 7% 1.4rem;
 
   h2 {
@@ -201,6 +201,8 @@ html {
     }
   }
 }
+
+/* search */
 
 /* media queries*/
 

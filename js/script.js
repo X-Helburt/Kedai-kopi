@@ -15,13 +15,3 @@ document.addEventListener("click", function (e) {
     navbarNav.classList.remove("active");
   }
 });
-
-// } fungsi humburger
-
-//  keranjang / shoping cart
-const Keranjang = document.querySelector("#keranjang");
-//  keranjang / shoping cart dalam pesanan
-const Keranjang_pesanan = document.querySelector("#keranjang/pesanan");
-
-// contact
-// const kontak = document.querySelector("#contact");
